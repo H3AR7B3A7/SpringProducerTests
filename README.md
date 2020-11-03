@@ -3,7 +3,7 @@ Object <> Entity <> Controller <> Service <> Repository <> Api / UI
 
 ## Strategy
 - Inside out testing : Left to right
-- Outside in testing : Right to Left ( - for more difficult integrations
+- Outside in testing : Right to Left ( - for more difficult integrations)
 
 ## Red - Green refactoring
 - Build a test
