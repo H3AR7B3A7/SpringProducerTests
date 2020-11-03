@@ -10,7 +10,8 @@ Object <> Entity <> Controller <> Service <> Repository <> Api / UI
 - Write the code to satisfy the test
 - Repeat
 
-# Mongo DB
+
+# Mongo
 
 [Mongo Docs](https://docs.spring.io/spring-data/mongodb/docs/current/reference/html/#reference)
 
@@ -26,3 +27,6 @@ application.properties:
     spring.data.mongodb.host=localhost
     spring.data.mongodb.port=27017
     spring.data.mongodb.database= <Database name>
+    
+---
+[CLI Cheat Sheet](https://gist.github.com/bradtraversy/f407d642bdc3b31681bc7e56d95485b6)
