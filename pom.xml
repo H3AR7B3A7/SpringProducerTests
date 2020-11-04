@@ -97,8 +97,10 @@
                 <version>2.2.4.RELEASE</version>
                 <extensions>true</extensions>
                 <configuration>
-                    <testFramework>JUNIT5</testFramework>
-                    <testMode>WEBTESTCLIENT</testMode>
+                    <testMode>EXPLICIT</testMode>
+                    <baseClassForTests>
+                        be.dog.d.steven.reactiveweb.BaseClass
+                    </baseClassForTests>
                 </configuration>
             </plugin>
             <plugin>
